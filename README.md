@@ -1,2 +1,3 @@
-# TSBootcamp
+# 🚀 TypeScript Bootcamp 🚀
+
 typescript-bootcamp-suzan
