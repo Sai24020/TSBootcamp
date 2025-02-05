@@ -1,0 +1,24 @@
+{
+  "name": "tsbootcamp",
+  "version": "1.0.0",
+  "description": "typescript-bootcamp-suzan",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sai24020/TSBootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai24020/TSBootcamp/issues"
+  },
+  "homepage": "https://github.com/Sai24020/TSBootcamp#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "typescript": "^5.7.3"
+  }
+}
